@@ -3,7 +3,7 @@ Behavioural data for "Complementary roles of cholinergic and serotonergic system
 
 Exp.1_behavData contains data from 'medium' offer trials in the 'balanced' design (Khalighinejad et al., Neuron, 2020) and the 'biased' design (experiment 1).
 
-Exp.2_behavData contains all behavioural data from experiment 2: manipulation of the serotonergic system with Citalopram.
+Exp.2_behavData contains all behavioural data from experiment 2: manipulation of the serotonergic system with citalopram.
 
 Exp.3_behavData contains all behavioural data from experiment 3: manipulation of the cholinergic system with rivastigmine.
 
